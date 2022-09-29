@@ -30,8 +30,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://recordit.co/8QdDmSQhhr.gif' title='Flixster+' width='' alt='Video Walkthrough' />
-![](https://recordit.co/8QdDmSQhhr.gif)
+<img src='https://recordit.co/l8j3dPCMRJ.gif' title='Flixster+' width='' alt='Video Walkthrough' />
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Recordit 
